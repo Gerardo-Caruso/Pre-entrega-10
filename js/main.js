@@ -84,8 +84,8 @@ function imprimirProductosEnHTML(listaProductos) {
   Toastify({
     text: `¡${producto.nombre} agregado al carrito!`,
     duration: 3000,
-    gravity: "bottom", // "top" o "bottom"
-    position: "right", // "left", "center" o "right"
+    gravity: "bottom", 
+    position: "center", 
     style: {
       background: "linear-gradient(to right, #00b09b, #96c93d)",
     }
