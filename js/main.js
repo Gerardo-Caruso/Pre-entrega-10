@@ -156,8 +156,6 @@ inputBusqueda.addEventListener("input", (event) => {
 });
 
 
-
-// Inicializamos la aplicación
 iniciarProductos();
 mostrarMensajePromo();
 
